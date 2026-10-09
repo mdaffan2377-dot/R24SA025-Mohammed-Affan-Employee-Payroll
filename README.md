@@ -402,3 +402,19 @@ The project also demonstrates the use of inheritance, abstraction, encapsulation
 **Programme:** B.Sc. Bioinformatics, Computer Science and Statistics (BSTCS)  
 **Semester:** 5th Semester  
 **University:** REVA University
+
+---
+
+## 8. Sample Program Output
+
+### 1. Main Menu
+
+![Employee Payroll Management Main Menu](screenshots/menu-output.png)
+
+### 2. Employee List
+
+![Employee List Output](screenshots/employee-list.png)
+
+### 3. Generated Payslip
+
+![Employee Payslip Output](screenshots/payslip-output.png)
