@@ -395,6 +395,20 @@ The project also demonstrates the use of inheritance, abstraction, encapsulation
 
 ---
 
+## 8. Sample Program Output
+
+### 1. Main Menu
+
+![Employee Payslip Output](payslip-output.png.png)
+
+### 2. Employee List
+
+![Employee List Output](employee-list.png.png)
+
+### 3. Generated Payslip
+![Employee Payroll Management Main Menu](menu-output.png.png) 
+
+---
 ## Student
 
 **Name:** Mohammed Affan  
@@ -402,19 +416,3 @@ The project also demonstrates the use of inheritance, abstraction, encapsulation
 **Programme:** B.Sc. Bioinformatics, Computer Science and Statistics (BSTCS)  
 **Semester:** 5th Semester  
 **University:** REVA University
-
----
-
-## 8. Sample Program Output
-
-### 1. Main Menu
-
-![Employee Payroll Management Main Menu](screenshots/menu-output.png)
-
-### 2. Employee List
-
-![Employee List Output](screenshots/employee-list.png)
-
-### 3. Generated Payslip
-
-![Employee Payslip Output](screenshots/payslip-output.png)
