@@ -403,10 +403,26 @@ The project also demonstrates the use of inheritance, abstraction, encapsulation
 
 ### 2. Employee List
 
-![Employee List Output](employee-list.png.png)
-
-### 3. Generated Payslip
 ![Employee Payroll Management Main Menu](menu-output.png.png) 
+### 3. Generated Payslip
+
+![Employee List Output](employee-list.png.png) 
+
+### 4. Employee Deletion
+
+![Employee Deletion Output](Employee%20deletion.png)
+
+### 5. Employee Search
+
+![Employee Search Output](Employee%20search.png)
+
+### 6. Salary Calculation
+
+![Salary Calculation Output](Salary%20calculation.png)
+
+### 7. Employee Update
+
+![Employee Update Output](Employee%20update.png)
 
 ---
 ## Student
